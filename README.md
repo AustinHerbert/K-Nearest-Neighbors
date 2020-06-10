@@ -24,7 +24,8 @@
 
 ![error_rate](https://user-images.githubusercontent.com/64975026/84311985-d8f27a80-ab29-11ea-8466-676e0082c6ea.png)
 
-# Final Results
+# Final Results with K(33)
+
               precision    recall  f1-score   support
 
            0       0.77      0.79      0.78       136
